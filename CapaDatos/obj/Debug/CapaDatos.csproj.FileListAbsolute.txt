@@ -1,0 +1,4 @@
+D:\GitSof\ReposteriaLaPastisseria\CapaDatos\bin\Debug\CapaDatos.dll
+D:\GitSof\ReposteriaLaPastisseria\CapaDatos\bin\Debug\CapaDatos.pdb
+D:\GitSof\ReposteriaLaPastisseria\CapaDatos\obj\Debug\CapaDatos.dll
+D:\GitSof\ReposteriaLaPastisseria\CapaDatos\obj\Debug\CapaDatos.pdb

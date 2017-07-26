@@ -75,7 +75,7 @@
 
                         &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
-                        <asp:GridView class="col-centrada" ID="dg_usuario" runat="server" CellPadding="4" ForeColor="#333333" GridLines="None" OnSelectedIndexChanged="dg_usuario_SelectedIndexChanged" OnRowDeleting="dg_usuario_RowDeleting" OnDataBound="dg_usuario_DataBound" OnRowDataBound="dg_usuario_RowDataBound" >
+                        <asp:GridView class="col-centrada" ID="dg_usuario" runat="server" CellPadding="4" ForeColor="#333333" GridLines="None" OnSelectedIndexChanged="dg_usuario_SelectedIndexChanged" OnRowDeleting="dg_usuario_RowDeleting" OnDataBound="dg_usuario_DataBound" OnRowDataBound="dg_usuario_RowDataBound" OnPreRender="dg_usuario_PreRender" >
                              <AlternatingRowStyle BackColor="White" />
                              <Columns>
                                  <asp:CommandField  ButtonType="Button" DeleteText="Selecionar" ShowDeleteButton="True" />

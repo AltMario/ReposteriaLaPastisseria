@@ -113,4 +113,34 @@ public partial class WebUsuarios : System.Web.UI.Page
     {
 
     }
+
+    protected void dg_usuario_PreRender(object sender, EventArgs e)
+    {
+        foreach (GridViewRow row in dg_usuario.Rows)
+
+        {
+
+            if (row.RowIndex != dg_usuario.EditIndex)
+
+            {
+
+                string pwd = new string('*', row.Cells[3].Text.Length);
+
+                row.Cells[3].Text = pwd;
+
+            }
+
+            else
+
+            {
+
+                TextBox tx = (TextBox)row.Cells[3].Controls[0];
+
+                tx.TextMode = TextBoxMode.Password;
+
+            }
+
+        }
+
+    }
 }

@@ -20,10 +20,10 @@
     <form id="form1" runat="server">
         <H2><i class="fa fa-expeditedssl" aria-hidden="true"></i> login</H2>
         <label><i class="fa fa-user" aria-hidden="true"></i> Usuario</label>
-        <asp:TextBox ID="txtuser" runat="server"  placeholder="Ingrese su Usuario" required="required"></asp:TextBox>
+        <asp:TextBox ID="txtuser" runat="server"  placeholder="Ingrese su Usuario" required="required" maxlength="15"></asp:TextBox>
         
         <label><i class="fa fa-key" aria-hidden="true"></i>Contrase&ntilde;a
-            <asp:TextBox ID="txtpass" runat="server" type="password"  placeholder="Ingrese su Contrase&ntilde;a"></asp:TextBox>
+            <asp:TextBox ID="txtpass" runat="server" type="password"  placeholder="Ingrese su Contrase&ntilde;a" maxlength="15"></asp:TextBox>
         </label>
         &nbsp;
         <asp:LinkButton ID="btnlogin" runat="server" class="btn-login" OnClick="btnlogin_Click"><i class="fa fa-power-off""></i> Ingresar</asp:LinkButton>
