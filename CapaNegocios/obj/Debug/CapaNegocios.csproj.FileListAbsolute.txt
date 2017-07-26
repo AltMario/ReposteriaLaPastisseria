@@ -1,0 +1,23 @@
+C:\Users\Mario García\Desktop\ProyecReposteriav0.1\CapaNegocios\bin\Debug\CapaNegocios.dll
+C:\Users\Mario García\Desktop\ProyecReposteriav0.1\CapaNegocios\bin\Debug\CapaNegocios.pdb
+C:\Users\Mario García\Desktop\ProyecReposteriav0.1\CapaNegocios\bin\Debug\CapaDatos.dll
+C:\Users\Mario García\Desktop\ProyecReposteriav0.1\CapaNegocios\bin\Debug\CapaDatos.pdb
+C:\Users\Mario García\Desktop\ProyecReposteriav0.1\CapaNegocios\obj\Debug\CapaNegocios.csprojResolveAssemblyReference.cache
+C:\Users\Mario García\Desktop\ProyecReposteriav0.1\CapaNegocios\obj\Debug\CapaNegocios.dll
+C:\Users\Mario García\Desktop\ProyecReposteriav0.1\CapaNegocios\obj\Debug\CapaNegocios.pdb
+F:\Mariana\ProyecReposteriav0.1\CapaNegocios\bin\Debug\CapaNegocios.dll
+F:\Mariana\ProyecReposteriav0.1\CapaNegocios\bin\Debug\CapaNegocios.pdb
+F:\Mariana\ProyecReposteriav0.1\CapaNegocios\bin\Debug\CapaNegocios.dll.CodeAnalysisLog.xml
+F:\Mariana\ProyecReposteriav0.1\CapaNegocios\bin\Debug\CapaNegocios.dll.lastcodeanalysissucceeded
+F:\Mariana\ProyecReposteriav0.1\CapaNegocios\bin\Debug\CapaDatos.dll
+F:\Mariana\ProyecReposteriav0.1\CapaNegocios\bin\Debug\CapaDatos.pdb
+F:\Mariana\ProyecReposteriav0.1\CapaNegocios\obj\Debug\CapaNegocios.csprojResolveAssemblyReference.cache
+F:\Mariana\ProyecReposteriav0.1\CapaNegocios\obj\Debug\CapaNegocios.dll
+F:\Mariana\ProyecReposteriav0.1\CapaNegocios\obj\Debug\CapaNegocios.pdb
+E:\COPY\ProyecReposteriav0.1\CapaNegocios\bin\Debug\CapaNegocios.dll
+E:\COPY\ProyecReposteriav0.1\CapaNegocios\bin\Debug\CapaNegocios.pdb
+E:\COPY\ProyecReposteriav0.1\CapaNegocios\bin\Debug\CapaDatos.dll
+E:\COPY\ProyecReposteriav0.1\CapaNegocios\bin\Debug\CapaDatos.pdb
+E:\COPY\ProyecReposteriav0.1\CapaNegocios\obj\Debug\CapaNegocios.csprojResolveAssemblyReference.cache
+E:\COPY\ProyecReposteriav0.1\CapaNegocios\obj\Debug\CapaNegocios.dll
+E:\COPY\ProyecReposteriav0.1\CapaNegocios\obj\Debug\CapaNegocios.pdb

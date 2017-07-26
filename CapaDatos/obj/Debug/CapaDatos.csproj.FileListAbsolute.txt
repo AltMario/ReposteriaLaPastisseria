@@ -1,0 +1,16 @@
+C:\Users\Mario García\Desktop\ProyecReposteriav0.1\CapaDatos\bin\Debug\CapaDatos.dll
+C:\Users\Mario García\Desktop\ProyecReposteriav0.1\CapaDatos\bin\Debug\CapaDatos.pdb
+C:\Users\Mario García\Desktop\ProyecReposteriav0.1\CapaDatos\obj\Debug\CapaDatos.dll
+C:\Users\Mario García\Desktop\ProyecReposteriav0.1\CapaDatos\obj\Debug\CapaDatos.pdb
+F:\Mariana\ProyecReposteriav0.1\CapaDatos\bin\Debug\CapaDatos.dll
+F:\Mariana\ProyecReposteriav0.1\CapaDatos\bin\Debug\CapaDatos.pdb
+F:\Mariana\ProyecReposteriav0.1\CapaDatos\bin\Debug\CapaDatos.dll.CodeAnalysisLog.xml
+F:\Mariana\ProyecReposteriav0.1\CapaDatos\bin\Debug\CapaDatos.dll.lastcodeanalysissucceeded
+F:\Mariana\ProyecReposteriav0.1\CapaDatos\obj\Debug\CapaDatos.csprojResolveAssemblyReference.cache
+F:\Mariana\ProyecReposteriav0.1\CapaDatos\obj\Debug\CapaDatos.dll
+F:\Mariana\ProyecReposteriav0.1\CapaDatos\obj\Debug\CapaDatos.pdb
+E:\COPY\ProyecReposteriav0.1\CapaDatos\bin\Debug\CapaDatos.dll
+E:\COPY\ProyecReposteriav0.1\CapaDatos\bin\Debug\CapaDatos.pdb
+E:\COPY\ProyecReposteriav0.1\CapaDatos\obj\Debug\CapaDatos.dll
+E:\COPY\ProyecReposteriav0.1\CapaDatos\obj\Debug\CapaDatos.pdb
+E:\COPY\ProyecReposteriav0.1\CapaDatos\obj\Debug\CapaDatos.csprojResolveAssemblyReference.cache
