@@ -28,3 +28,10 @@ D:\Sofware2\ReposteriaLaPastisseria\CapaNegocios\bin\Debug\CapaDatos.pdb
 D:\Sofware2\ReposteriaLaPastisseria\CapaNegocios\obj\Debug\CapaNegocios.csprojResolveAssemblyReference.cache
 D:\Sofware2\ReposteriaLaPastisseria\CapaNegocios\obj\Debug\CapaNegocios.dll
 D:\Sofware2\ReposteriaLaPastisseria\CapaNegocios\obj\Debug\CapaNegocios.pdb
+E:\ProyecRepo\ReposteriaLaPastisseria\CapaNegocios\bin\Debug\CapaNegocios.dll
+E:\ProyecRepo\ReposteriaLaPastisseria\CapaNegocios\bin\Debug\CapaNegocios.pdb
+E:\ProyecRepo\ReposteriaLaPastisseria\CapaNegocios\bin\Debug\CapaDatos.dll
+E:\ProyecRepo\ReposteriaLaPastisseria\CapaNegocios\bin\Debug\CapaDatos.pdb
+E:\ProyecRepo\ReposteriaLaPastisseria\CapaNegocios\obj\Debug\CapaNegocios.csprojResolveAssemblyReference.cache
+E:\ProyecRepo\ReposteriaLaPastisseria\CapaNegocios\obj\Debug\CapaNegocios.dll
+E:\ProyecRepo\ReposteriaLaPastisseria\CapaNegocios\obj\Debug\CapaNegocios.pdb

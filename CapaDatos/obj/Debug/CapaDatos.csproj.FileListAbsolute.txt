@@ -18,3 +18,8 @@ D:\Sofware2\ReposteriaLaPastisseria\CapaDatos\bin\Debug\CapaDatos.dll
 D:\Sofware2\ReposteriaLaPastisseria\CapaDatos\bin\Debug\CapaDatos.pdb
 D:\Sofware2\ReposteriaLaPastisseria\CapaDatos\obj\Debug\CapaDatos.dll
 D:\Sofware2\ReposteriaLaPastisseria\CapaDatos\obj\Debug\CapaDatos.pdb
+E:\ProyecRepo\ReposteriaLaPastisseria\CapaDatos\bin\Debug\CapaDatos.dll
+E:\ProyecRepo\ReposteriaLaPastisseria\CapaDatos\bin\Debug\CapaDatos.pdb
+E:\ProyecRepo\ReposteriaLaPastisseria\CapaDatos\obj\Debug\CapaDatos.csprojResolveAssemblyReference.cache
+E:\ProyecRepo\ReposteriaLaPastisseria\CapaDatos\obj\Debug\CapaDatos.dll
+E:\ProyecRepo\ReposteriaLaPastisseria\CapaDatos\obj\Debug\CapaDatos.pdb
