@@ -12,7 +12,7 @@ namespace CapaDatos
     {
         private OleDbConnection Conectar()
         {
-            string cad = "Provider=SQLOLEDB.1;Data Source=DESKTOP-BOM21CR;Initial Catalog=bdReposteria;Integrated Security=SSPI";
+            string cad = "Provider=SQLOLEDB.1;Data Source=PC-MARIOGARCIA;Initial Catalog=dbReposteria;Integrated Security=SSPI";
             OleDbConnection obconectar = new OleDbConnection(cad);
             obconectar.Open();
             return obconectar;
